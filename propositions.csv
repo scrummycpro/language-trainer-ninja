@@ -2,3 +2,8 @@ text,label
 "I love this product! It works amazingly well.",positive
 "I hate waiting in long lines. It's so frustrating.",negative
 "The weather today is neither good nor bad.",neutral
+"I'm not sure how I feel about this product.",neutral
+"I'm so excited to see my favorite band tonight!",positive
+"I like the new design of this product.",positive
+"I don't like the new design of this product.",negative
+"I don't like it",negative

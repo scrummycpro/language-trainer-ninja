@@ -1,35 +1,35 @@
 Words associated with positive sentiment:
-amazingly: 14.29%
-it: 14.29%
-love: 14.29%
-product: 14.29%
-this: 14.29%
-well: 14.29%
-works: 14.29%
-bad: 0.00%
-frustrating: 0.00%
-good: 0.00%
+product: 9.09%
+this: 9.09%
+amazingly: 4.55%
+band: 4.55%
+design: 4.55%
+excited: 4.55%
+favorite: 4.55%
+it: 4.55%
+like: 4.55%
+love: 4.55%
 
 Words associated with negative sentiment:
-frustrating: 12.50%
-hate: 12.50%
-in: 12.50%
-it: 12.50%
-lines: 12.50%
-long: 12.50%
-so: 12.50%
-waiting: 12.50%
-amazingly: 0.00%
-bad: 0.00%
+don: 10.53%
+it: 10.53%
+like: 10.53%
+design: 5.26%
+frustrating: 5.26%
+hate: 5.26%
+in: 5.26%
+lines: 5.26%
+long: 5.26%
+new: 5.26%
 
 Words associated with neutral sentiment:
-bad: 12.50%
-good: 12.50%
-is: 12.50%
-neither: 12.50%
-nor: 12.50%
-the: 12.50%
-today: 12.50%
-weather: 12.50%
-amazingly: 0.00%
-frustrating: 0.00%
+about: 6.67%
+bad: 6.67%
+feel: 6.67%
+good: 6.67%
+how: 6.67%
+is: 6.67%
+neither: 6.67%
+nor: 6.67%
+not: 6.67%
+product: 6.67%
