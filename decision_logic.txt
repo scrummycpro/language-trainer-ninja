@@ -1,0 +1,35 @@
+Words associated with positive sentiment:
+amazingly: 14.29%
+it: 14.29%
+love: 14.29%
+product: 14.29%
+this: 14.29%
+well: 14.29%
+works: 14.29%
+bad: 0.00%
+frustrating: 0.00%
+good: 0.00%
+
+Words associated with negative sentiment:
+frustrating: 12.50%
+hate: 12.50%
+in: 12.50%
+it: 12.50%
+lines: 12.50%
+long: 12.50%
+so: 12.50%
+waiting: 12.50%
+amazingly: 0.00%
+bad: 0.00%
+
+Words associated with neutral sentiment:
+bad: 12.50%
+good: 12.50%
+is: 12.50%
+neither: 12.50%
+nor: 12.50%
+the: 12.50%
+today: 12.50%
+weather: 12.50%
+amazingly: 0.00%
+frustrating: 0.00%
